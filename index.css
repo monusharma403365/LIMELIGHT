@@ -48,7 +48,7 @@ body {
     display: var(--display-flex);
     align-items: var(--item-center);
     justify-content: var(--item-center);
-    margin-top: var(--outerspce24px);
+    margin-top: var(--outerspce24px); 
 }
 
 .navbar-item {
